@@ -1,0 +1,1 @@
+hosturl: https://tangyinming.github.io/quiktranscript-support-page/
